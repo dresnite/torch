@@ -6,7 +6,6 @@ Welcome to **Torch**, a work-in-progress social network platform built with Type
 
 - [About Torch](#about-torch)
 - [Features](#features)
-- [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
